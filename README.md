@@ -1,6 +1,6 @@
 # Olá! Me chamo Fabrício Floriano 👋
 
-Sou apenas um apaixonado por tecnologia, animes, livros de ficção e jogos. 
+Sou apenas um apaixonado por tecnologia, animes, livros de fantasia e jogos. 
 
 Estou sempre em busca de aprender coisas novas e expandir meus conhecimentos em diversas áreas.
 
