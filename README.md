@@ -4,7 +4,7 @@ Sou apenas um apaixonado por tecnologia, animes, livros de fantasia e jogos.
 
 Estou sempre em busca de aprender coisas novas e expandir meus conhecimentos em diversas áreas.
 
-No meu tempo livre, gosto de assistir a animes, ler livros, mangás/quadrinhos, também sou um ávido leitor de ficção científica e fantasia, além de ser um grande fã de jogos.
+No meu tempo livre, gosto de assistir animes, ler livros, mangás/quadrinhos, também sou um ávido leitor de ficção científica e fantasia, além de ser um grande fã de jogos.
 
 Se você compartilha algum desses interesses ou tem alguma pergunta sobre eles, fique à vontade para me perguntar. Estou sempre aberto a novas conversas e trocas de conhecimento.
 
