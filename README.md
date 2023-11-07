@@ -9,7 +9,7 @@ Estou sempre em busca de aprender coisas novas e expandir meus conhecimentos em 
 🌱 Atualmente estou aprendendo Python ...
 
 Além disso, você pode conferir meus projetos. Vamos criar e se divertir juntos!
-## Contatos: 🌐
+## 🌐 Contatos: 
 <div align="center"> <br/>
 <a alt="youtube" href="https://www.youtube.com/@fal3rici0" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 <a alt="instagram" href="https://instagram.com/fa.florian0" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
@@ -17,7 +17,7 @@ Além disso, você pode conferir meus projetos. Vamos criar e se divertir juntos
 <a alt="outlook" href = "mailto:f.florian0@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
 </div><br/>
 
-## Ferramentas: 🧰
+## 🧰 Ferramentas: 
 <div align="Center"><br/>
   <img alt="linux" src='https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black' alt='LINUX'>
 <!--   <img alt="macos" src='https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white' alt='MacOs'> -->
@@ -27,7 +27,7 @@ Além disso, você pode conferir meus projetos. Vamos criar e se divertir juntos
   <img alt="git" src='https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white' alt='GIT'>
 </div><br/>
 
-## Tecnologias: 💻
+## 💻 Tecnologias: 
 
 <div align="center"><br/>
   <img alt="npm" src='https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white' alt='NPM'>
@@ -46,7 +46,7 @@ Além disso, você pode conferir meus projetos. Vamos criar e se divertir juntos
   <img alt="express.js" src='https://img.shields.io/badge/Express.js-404D59?style=for-the-badge' alt='Express.js'>
 </div><br/>
 
-## Estudando: 📚
+## 📚 Estudando: 
 <div align="center"><br/>
   <img alt="python" src='https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white'>
 </div><br/>
