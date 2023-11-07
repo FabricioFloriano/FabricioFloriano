@@ -9,7 +9,12 @@ Estou sempre em busca de aprender coisas novas e expandir meus conhecimentos em 
 🌱 Atualmente estou aprendendo Python ...
 
 Além disso, você pode conferir meus projetos. Vamos criar e se divertir juntos!
-## Contatos:
+## Contatos:<div>
+<a href="https://www.youtube.com/@fal3rici0" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+<a href="https://instagram.com/fa.florian0" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/faflorian0" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:f.florian0@hotmail.com"><img loading="lazy" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white"></a>
+</div>
 
 ## Ferramentas e Tecnologias
 
@@ -19,9 +24,10 @@ Além disso, você pode conferir meus projetos. Vamos criar e se divertir juntos
 
 <div>
 <a href="https://github.com/FabricioFloriano">
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioFloriano&layout=compact&langs_count=7&theme=merko"/>
-<img loading="lazy" height="150em" src="https://github-readme-stats.vercel.app/api?username=FabricioFloriano&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FabricioFloriano&layout=compact&langs_count=7&theme=tokyonight"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=FabricioFloriano&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
+
 
 
           
